@@ -1,0 +1,152 @@
+
+.top-container {background-color: #FFD369;
+  padding-top: 100px;
+  position: relative;
+  line-height: 2;
+}
+.aspiring {text-decoration: underline;
+font-style: italic;
+}
+
+.web-developer {font-weight: bold;
+}
+
+.subheading {font-weight: normal;
+}
+
+head {margin: 0;
+}
+
+h1 {margin: 50px auto 0 auto;
+font-family: Montserrat, sans-serif;
+font-size: 3.7rem;
+color: #393E46;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: Montserrat, sans-serif;
+  color: #393E46;
+}
+
+h3 {color: black;
+  font-family: Roboto, sans-serif;
+}
+
+a {color: black;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.intro {width: 30%;
+
+}
+
+p {width: 70%;
+margin:0 auto 20px auto;
+line-height: 2;}
+
+body {
+  margin: 0;
+text-align: center;
+font-family: Open Sans, sans-serif;
+}
+
+hr { width: 10%;
+  height: 0;
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  margin: 100px auto;
+}
+
+.pp {height: 175px;
+width: 175px;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 100px;
+  height: 100px;
+  width: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 500px;
+  height: 100px;
+  width: 100px;
+  transform: scaleX(-1);
+}
+
+.skill-row {width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skills {background-color: #FFD369;
+  padding: 50px 0;
+}
+
+.coding {margin-left: 100px;}
+
+.image {width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 100px;
+}
+.image1 {width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 100px;
+}
+
+.BUTTON_IDG {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #000000;
+   font-family: Open Sans;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #FFFFFF;
+   border: solid #000000 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 20px;
+}
+
+.BUTTON_IDG:hover {
+   background: #FFD369;
+   border: solid #000000 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.bottom-container {background-color: #FFD369;
+padding: 50px 0 20px;
+line-height: 2;
+ }
+
+.middle-container {margin: 100px 0;}
+
+.contact-me {width: 40%;
+margin: 40px auto 60px;
+}
+
+.copyright-message {color: #8f8f89;
+font-size: 1rem;
+padding: 20px 0;
+}
